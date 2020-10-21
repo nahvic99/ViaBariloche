@@ -4,4 +4,4 @@ CREATE TABLE articulos (
   descripcion varchar(50),
   precio float,
   PRIMARY KEY (codigo)
-)
+);
