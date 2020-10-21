@@ -1,0 +1,15 @@
+Les dejo el instructivo para que lo puedan utilizar.
+1.crear una base de datos llamada bd1
+2. crear la siguiente tabla: 
+CREATE TABLE articulos (
+  codigo int AUTO_INCREMENT,
+  descripcion varchar(50),
+  precio float,
+  PRIMARY KEY (codigo)
+)
+3.Tener los archivos .PHP en el localhost:80 
+4.Revisar conexion.php para conectar base de datos.
+5.Ejecutar con ng serve en la carpeta proyecto-viabariloche.
+
+Cualquier inquietud estoy a su entera disposicion.
+Desde ya muchas gracias por su oportunidad via bariloche.
